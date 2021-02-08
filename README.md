@@ -33,7 +33,7 @@ If we connect Power BI to the view we get this result:
 
 ![Model](/Images/ResultJoin.png)
 
-Contribute by putting the results of your BI tool will handle this two tables!
+Contribute by putting the results of how your BI tool will handle this two tables!
 
 (Tables are availabe in Tables folder)
 
